@@ -1,1 +1,3 @@
-A infix to postfix converter Javascript. Also evaluates the converted postfix expression.
+#JSCalc#
+
+An infix to postfix converter built in Javascript that evaluates any infix expression.
